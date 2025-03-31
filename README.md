@@ -1,1 +1,1 @@
-# Hegyi-Ontozorendszer
+# Ontozorendszer
